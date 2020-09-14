@@ -1,0 +1,110 @@
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe.config
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.pdb
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form_Giris.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Properties.Resources.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe.licenses
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.pdb
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.dashboard.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.ayarlar.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.istatistik.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.kullanicilar.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.urunler.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.menu.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.yenimusteri.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.musteris.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe.config
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.pdb
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.pdb
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.ayarlar.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.dashboard.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form_Giris.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.menu.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.istatistik.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.kullanicilar.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.yenimusteri.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.musteris.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Properties.Resources.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.urunler.resources
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Asus PC\Desktop\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe.licenses
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe.config
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.pdb
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csprojResolveAssemblyReference.cache
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.ayarlar.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.dashboard.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form1.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form_Giris.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.menu.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.istatistik.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.kullanicilar.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.yenimusteri.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.musteris.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Properties.Resources.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.urunler.resources
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csproj.GenerateResource.Cache
+E:\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe.licenses
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe.config
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.pdb
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csprojResolveAssemblyReference.cache
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.ayarlar.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.dashboard.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form1.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form_Giris.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.menu.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.istatistik.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.kullanicilar.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.yenimusteri.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.musteris.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Properties.Resources.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.urunler.resources
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csproj.GenerateResource.Cache
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe.licenses
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe
+E:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.pdb
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe.config
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.pdb
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.pdb
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csprojResolveAssemblyReference.cache
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.ayarlar.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.dashboard.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form1.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form_Giris.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.menu.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.istatistik.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.kullanicilar.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.yenimusteri.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.musteris.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Properties.Resources.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.urunler.resources
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csproj.GenerateResource.Cache
+F:\Diğer Veriler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe.licenses
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe.config
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.pdb
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.exe
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\x86\Debug\kuru_temizleme_otomasyonu.pdb
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csprojResolveAssemblyReference.cache
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.ayarlar.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.dashboard.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form1.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Form_Giris.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.menu.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.istatistik.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.kullanicilar.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.yenimusteri.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.musteris.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.Properties.Resources.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.urunler.resources
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.csproj.GenerateResource.Cache
+E:\Programlar\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\x86\Debug\kuru_temizleme_otomasyonu.exe.licenses

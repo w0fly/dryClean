@@ -1,0 +1,16 @@
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\Release\kuru_temizleme_otomasyonu.exe.config
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\Release\kuru_temizleme_otomasyonu.exe
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\bin\Release\kuru_temizleme_otomasyonu.pdb
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.ayarlar.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.dashboard.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.Form_Giris.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.Form_Menu.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.istatistik.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.kullanicilar.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.musteriler.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.Properties.Resources.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.urunler.resources
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.exe.licenses
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.exe
+C:\Users\X\Desktop\Projeler\kuru_temizleme_otomasyonu\kuru_temizleme_otomasyonu\obj\Release\kuru_temizleme_otomasyonu.pdb
